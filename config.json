@@ -1,0 +1,6 @@
+{
+  "subscription_id": "my_subscription_id",
+  "ressource_group": "ml-model-deployment",
+  "workspace_name": "diabetes-model-deployment1",
+  "region": "centralindia"
+}
